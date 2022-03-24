@@ -5,7 +5,7 @@ RPGitem starting from 4.0.1 depends on WitherCord to work!
 
 # Downloads
 Recommended version: 1.17
-[See releases tab]
+See releases tab or click here: https://github.com/OverpoweredCoding/Item-Creator/releases/download/4.0.2/ItemCreator_4.0.2.jar
 
 # Status
 Extreme beta
